@@ -95,7 +95,7 @@ class LgIrLearner private constructor(
         private const val TAG = "LgIrLearner"
 
         // UEI Quickset service coordinates (UeiIrBlasterVersion.smali)
-        const val SERVICE_PACKAGE   = "com.uei.lg.quicksetsdk"
+        const val SERVICE_PACKAGE   = "com.uei.lg.quicksetsdk.irblaster"
         const val SERVICE_CLASS     = "com.uei.control.Service"
         const val SERVICE_ACTION    = "com.uei.control.ISetup"
 
