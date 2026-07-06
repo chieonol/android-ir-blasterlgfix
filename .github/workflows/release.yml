@@ -1,6 +1,6 @@
 name: release
 
-flutter-version: '8b872868494e429d94fa06dca855c306438b22c0'
+flutter-version: '3.38.6'
 
 on:
   workflow_dispatch:
